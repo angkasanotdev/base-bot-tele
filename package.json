@@ -1,0 +1,19 @@
+{
+    "name": "Angkasa 不是开发者",
+    "version": "0.4",
+    "description": "Angkasa 不是开发者",
+    "main": "angkasa.js",
+    "scripts": {
+        "start": "node angkasa.js"
+    },
+    "dependencies": {
+        "@google/generative-ai": "^0.24.1",
+        "axios": "^1.12.2",
+        "fs": "^0.0.1-security",
+        "moment-timezone": "^0.6.0",
+        "node-fetch": "^3.3.2",
+        "node-telegram-bot-api": "^0.66.0",
+        "sharp": "^0.34.4",
+        "yt-search": "^2.13.1"
+    }
+}
